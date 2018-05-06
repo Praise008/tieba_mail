@@ -4,7 +4,7 @@ import sys
 import requests
 from bs4 import BeautifulSoup
 pn="?pn="
-tieba_url="http://tieba.baidu.com/p/5638802871"
+tieba_url=""
 headers={
     "Host":"tieba.baidu.com",
     "User-Agent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36"
