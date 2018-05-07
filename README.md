@@ -5,5 +5,5 @@
 2.
 
 使用方法:
-py -2 -m pip install -r request.txt   
+py -2 -m pip install -r requirements.txt   
 py -2 main.py
